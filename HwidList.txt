@@ -1,1 +1,1 @@
-testhwid,madness
+hwidtest,madness
