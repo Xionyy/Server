@@ -1,0 +1,4 @@
+https://github.com/Xionyy/Server/blob/main/Madness/Madness.zip?raw=true,test
+https://github.com/Xionyy/Server/blob/main/Madness/Madness.zip?raw=true,madness
+https://github.com/Xionyy/Server/blob/main/Matrix/Matrix.zip?raw=true,matrix
+https://github.com/Xionyy/Server/blob/main/Origins/Origins.zip?raw=true,origins
